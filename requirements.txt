@@ -1,0 +1,6 @@
+pandas
+pdfplumber
+mysql-connector-python
+sentence-transformers
+scikit-learn
+openpyxl
